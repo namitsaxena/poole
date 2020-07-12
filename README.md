@@ -1,3 +1,10 @@
+# Getting Started - How To
+* Fork the repo from https://github.com/poole/poole
+* Update _config (since this works from gh-pages branch, it must be updated)
+  * change base url 
+  * change relative permalinks to false since this is not supported anymore
+* Access this repo page from: http://blog.namitsaxena.com/poole/ (since 'poole' is the forked repo's name)
+
 # Poole
 
 *The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
